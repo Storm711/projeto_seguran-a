@@ -1,0 +1,17 @@
+{
+  "a-001": {
+    "sala": "Laboratório A",
+    "horario_inicio": 8,
+    "horario_fim": 18
+  },
+  "b-002": {
+    "sala": "Biblioteca",
+    "horario_inicio": 9,
+    "horario_fim": 17
+  },
+  "g-003": {
+    "sala": "Sala dos Servidores",
+    "horario_inicio": 0,
+    "horario_fim": 24
+  }
+}

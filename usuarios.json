@@ -1,0 +1,17 @@
+[
+  {
+    "id_usuario": "a-001",
+    "nome": "Alice Silva",
+    "senha": "123"
+  },
+  {
+    "id_usuario": "b-002",
+    "nome": "Bruno Costa",
+    "senha": "456"
+  },
+  {
+    "id_usuario": "g-003",
+    "nome": "Gabriel Lima (Admin)",
+    "senha": "789"
+  }
+]
